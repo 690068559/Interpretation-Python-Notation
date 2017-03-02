@@ -37,3 +37,19 @@ Value of x is 2
 # Python中的with可以改变代码的友好度
 with open('a.txt') as f:
   print f.readlines()
+  
+class A():
+  pass
+
+with A() as a:
+  print ' '
+
+# assert
+
+
+
+
+
+
+
+
